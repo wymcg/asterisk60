@@ -720,7 +720,7 @@ U 1 1 61C7C115
 P 1200 3250
 F 0 "D0" V 1154 3330 50  0000 L CNN
 F 1 "1N4148" V 1245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 1200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 3250 50  0001 C CNN
 	1    1200 3250
 	0    1    1    0   
@@ -731,7 +731,7 @@ U 1 1 61C7EBD5
 P 1200 3750
 F 0 "D10" V 1154 3830 50  0000 L CNN
 F 1 "1N4148" V 1245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 1200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 3750 50  0001 C CNN
 	1    1200 3750
 	0    1    1    0   
@@ -742,7 +742,7 @@ U 1 1 61C80297
 P 1200 4250
 F 0 "D20" V 1154 4330 50  0000 L CNN
 F 1 "1N4148" V 1245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 1200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 4250 50  0001 C CNN
 	1    1200 4250
 	0    1    1    0   
@@ -753,7 +753,7 @@ U 1 1 61C82D32
 P 1200 4750
 F 0 "D30" V 1154 4830 50  0000 L CNN
 F 1 "1N4148" V 1245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 1200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 4750 50  0001 C CNN
 	1    1200 4750
 	0    1    1    0   
@@ -764,7 +764,7 @@ U 1 1 61C840CF
 P 1200 5250
 F 0 "D40" V 1154 5330 50  0000 L CNN
 F 1 "1N4148" V 1245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 1200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 5250 50  0001 C CNN
 	1    1200 5250
 	0    1    1    0   
@@ -775,7 +775,7 @@ U 1 1 61C85240
 P 1200 5750
 F 0 "D50" V 1154 5830 50  0000 L CNN
 F 1 "1N4148" V 1245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 1200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 5750 50  0001 C CNN
 	1    1200 5750
 	0    1    1    0   
@@ -786,7 +786,7 @@ U 1 1 61CB9989
 P 2200 3250
 F 0 "D1" V 2154 3330 50  0000 L CNN
 F 1 "1N4148" V 2245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 2200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 3250 50  0001 C CNN
 	1    2200 3250
 	0    1    1    0   
@@ -797,7 +797,7 @@ U 1 1 61CBA167
 P 2200 3750
 F 0 "D11" V 2154 3830 50  0000 L CNN
 F 1 "1N4148" V 2245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 2200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 3750 50  0001 C CNN
 	1    2200 3750
 	0    1    1    0   
@@ -808,7 +808,7 @@ U 1 1 61CBA171
 P 2200 4250
 F 0 "D21" V 2154 4330 50  0000 L CNN
 F 1 "1N4148" V 2245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 2200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 4250 50  0001 C CNN
 	1    2200 4250
 	0    1    1    0   
@@ -819,7 +819,7 @@ U 1 1 61CBA17B
 P 2200 4750
 F 0 "D31" V 2154 4830 50  0000 L CNN
 F 1 "1N4148" V 2245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 2200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 4750 50  0001 C CNN
 	1    2200 4750
 	0    1    1    0   
@@ -830,7 +830,7 @@ U 1 1 61CBA185
 P 2200 5250
 F 0 "D41" V 2154 5330 50  0000 L CNN
 F 1 "1N4148" V 2245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 2200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 5250 50  0001 C CNN
 	1    2200 5250
 	0    1    1    0   
@@ -841,7 +841,7 @@ U 1 1 61CBA18F
 P 2200 5750
 F 0 "D51" V 2154 5830 50  0000 L CNN
 F 1 "1N4148" V 2245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 2200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 5750 50  0001 C CNN
 	1    2200 5750
 	0    1    1    0   
@@ -852,7 +852,7 @@ U 1 1 61CE0CB9
 P 3200 3250
 F 0 "D2" V 3154 3330 50  0000 L CNN
 F 1 "1N4148" V 3245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 3200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 3250 50  0001 C CNN
 	1    3200 3250
 	0    1    1    0   
@@ -863,7 +863,7 @@ U 1 1 61CE15CF
 P 3200 3750
 F 0 "D12" V 3154 3830 50  0000 L CNN
 F 1 "1N4148" V 3245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 3200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 3750 50  0001 C CNN
 	1    3200 3750
 	0    1    1    0   
@@ -874,7 +874,7 @@ U 1 1 61CE15D9
 P 3200 4250
 F 0 "D22" V 3154 4330 50  0000 L CNN
 F 1 "1N4148" V 3245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 3200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 4250 50  0001 C CNN
 	1    3200 4250
 	0    1    1    0   
@@ -885,7 +885,7 @@ U 1 1 61CE15E3
 P 3200 4750
 F 0 "D32" V 3154 4830 50  0000 L CNN
 F 1 "1N4148" V 3245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 3200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 4750 50  0001 C CNN
 	1    3200 4750
 	0    1    1    0   
@@ -896,7 +896,7 @@ U 1 1 61CE15ED
 P 3200 5250
 F 0 "D42" V 3154 5330 50  0000 L CNN
 F 1 "1N4148" V 3245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 3200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 5250 50  0001 C CNN
 	1    3200 5250
 	0    1    1    0   
@@ -907,7 +907,7 @@ U 1 1 61CE15F7
 P 3200 5750
 F 0 "D52" V 3154 5830 50  0000 L CNN
 F 1 "1N4148" V 3245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 3200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 5750 50  0001 C CNN
 	1    3200 5750
 	0    1    1    0   
@@ -918,7 +918,7 @@ U 1 1 61D0F053
 P 4200 3250
 F 0 "D3" V 4154 3330 50  0000 L CNN
 F 1 "1N4148" V 4245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 4200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4200 3250 50  0001 C CNN
 	1    4200 3250
 	0    1    1    0   
@@ -929,7 +929,7 @@ U 1 1 61D0FAA1
 P 4200 3750
 F 0 "D13" V 4154 3830 50  0000 L CNN
 F 1 "1N4148" V 4245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 4200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4200 3750 50  0001 C CNN
 	1    4200 3750
 	0    1    1    0   
@@ -940,7 +940,7 @@ U 1 1 61D0FAAB
 P 4200 4250
 F 0 "D23" V 4154 4330 50  0000 L CNN
 F 1 "1N4148" V 4245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 4200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4200 4250 50  0001 C CNN
 	1    4200 4250
 	0    1    1    0   
@@ -951,7 +951,7 @@ U 1 1 61D0FAB5
 P 4200 4750
 F 0 "D33" V 4154 4830 50  0000 L CNN
 F 1 "1N4148" V 4245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 4200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4200 4750 50  0001 C CNN
 	1    4200 4750
 	0    1    1    0   
@@ -962,7 +962,7 @@ U 1 1 61D0FABF
 P 4200 5250
 F 0 "D43" V 4154 5330 50  0000 L CNN
 F 1 "1N4148" V 4245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 4200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4200 5250 50  0001 C CNN
 	1    4200 5250
 	0    1    1    0   
@@ -973,7 +973,7 @@ U 1 1 61D0FAC9
 P 4200 5750
 F 0 "D53" V 4154 5830 50  0000 L CNN
 F 1 "1N4148" V 4245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 4200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4200 5750 50  0001 C CNN
 	1    4200 5750
 	0    1    1    0   
@@ -984,7 +984,7 @@ U 1 1 61D442E3
 P 5200 3250
 F 0 "D4" V 5154 3330 50  0000 L CNN
 F 1 "1N4148" V 5245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 5200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 3250 50  0001 C CNN
 	1    5200 3250
 	0    1    1    0   
@@ -995,7 +995,7 @@ U 1 1 61D450A9
 P 5200 3750
 F 0 "D14" V 5154 3830 50  0000 L CNN
 F 1 "1N4148" V 5245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 5200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 3750 50  0001 C CNN
 	1    5200 3750
 	0    1    1    0   
@@ -1006,7 +1006,7 @@ U 1 1 61D450B3
 P 5200 4250
 F 0 "D24" V 5154 4330 50  0000 L CNN
 F 1 "1N4148" V 5245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 5200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 4250 50  0001 C CNN
 	1    5200 4250
 	0    1    1    0   
@@ -1017,7 +1017,7 @@ U 1 1 61D450BD
 P 5200 4750
 F 0 "D34" V 5154 4830 50  0000 L CNN
 F 1 "1N4148" V 5245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 5200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 4750 50  0001 C CNN
 	1    5200 4750
 	0    1    1    0   
@@ -1028,7 +1028,7 @@ U 1 1 61D450C7
 P 5200 5250
 F 0 "D44" V 5154 5330 50  0000 L CNN
 F 1 "1N4148" V 5245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 5200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 5250 50  0001 C CNN
 	1    5200 5250
 	0    1    1    0   
@@ -1039,7 +1039,7 @@ U 1 1 61D450D1
 P 5200 5750
 F 0 "D54" V 5154 5830 50  0000 L CNN
 F 1 "1N4148" V 5245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 5200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 5750 50  0001 C CNN
 	1    5200 5750
 	0    1    1    0   
@@ -1062,7 +1062,7 @@ U 1 1 61D81A2D
 P 6200 5750
 F 0 "D55" V 6154 5830 50  0000 L CNN
 F 1 "1N4148" V 6245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 6200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6200 5750 50  0001 C CNN
 	1    6200 5750
 	0    1    1    0   
@@ -1073,7 +1073,7 @@ U 1 1 61D81A23
 P 6200 5250
 F 0 "D45" V 6154 5330 50  0000 L CNN
 F 1 "1N4148" V 6245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 6200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6200 5250 50  0001 C CNN
 	1    6200 5250
 	0    1    1    0   
@@ -1084,7 +1084,7 @@ U 1 1 61D81A19
 P 6200 4750
 F 0 "D35" V 6154 4830 50  0000 L CNN
 F 1 "1N4148" V 6245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 6200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6200 4750 50  0001 C CNN
 	1    6200 4750
 	0    1    1    0   
@@ -1095,7 +1095,7 @@ U 1 1 61D81A0F
 P 6200 4250
 F 0 "D25" V 6154 4330 50  0000 L CNN
 F 1 "1N4148" V 6245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 6200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6200 4250 50  0001 C CNN
 	1    6200 4250
 	0    1    1    0   
@@ -1106,7 +1106,7 @@ U 1 1 61D81A05
 P 6200 3750
 F 0 "D15" V 6154 3830 50  0000 L CNN
 F 1 "1N4148" V 6245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 6200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6200 3750 50  0001 C CNN
 	1    6200 3750
 	0    1    1    0   
@@ -1117,7 +1117,7 @@ U 1 1 61D80B07
 P 6200 3250
 F 0 "D5" V 6154 3330 50  0000 L CNN
 F 1 "1N4148" V 6245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 6200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6200 3250 50  0001 C CNN
 	1    6200 3250
 	0    1    1    0   
@@ -1194,7 +1194,7 @@ U 1 1 61DDAC56
 P 7200 5750
 F 0 "D56" V 7154 5830 50  0000 L CNN
 F 1 "1N4148" V 7245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 7200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7200 5750 50  0001 C CNN
 	1    7200 5750
 	0    1    1    0   
@@ -1205,7 +1205,7 @@ U 1 1 61DDBC8C
 P 7200 5250
 F 0 "D46" V 7154 5330 50  0000 L CNN
 F 1 "1N4148" V 7245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 7200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7200 5250 50  0001 C CNN
 	1    7200 5250
 	0    1    1    0   
@@ -1216,7 +1216,7 @@ U 1 1 61DDBC96
 P 7200 4750
 F 0 "D36" V 7154 4830 50  0000 L CNN
 F 1 "1N4148" V 7245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 7200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7200 4750 50  0001 C CNN
 	1    7200 4750
 	0    1    1    0   
@@ -1227,7 +1227,7 @@ U 1 1 61DDBCA0
 P 7200 4250
 F 0 "D26" V 7154 4330 50  0000 L CNN
 F 1 "1N4148" V 7245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 7200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7200 4250 50  0001 C CNN
 	1    7200 4250
 	0    1    1    0   
@@ -1238,7 +1238,7 @@ U 1 1 61DDBCAA
 P 7200 3750
 F 0 "D16" V 7154 3830 50  0000 L CNN
 F 1 "1N4148" V 7245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 7200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7200 3750 50  0001 C CNN
 	1    7200 3750
 	0    1    1    0   
@@ -1249,7 +1249,7 @@ U 1 1 61DDBCB4
 P 7200 3250
 F 0 "D6" V 7154 3330 50  0000 L CNN
 F 1 "1N4148" V 7245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 7200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7200 3250 50  0001 C CNN
 	1    7200 3250
 	0    1    1    0   
@@ -1260,7 +1260,7 @@ U 1 1 61E3FE98
 P 8200 5750
 F 0 "D57" V 8154 5830 50  0000 L CNN
 F 1 "1N4148" V 8245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 8200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 5750 50  0001 C CNN
 	1    8200 5750
 	0    1    1    0   
@@ -1271,7 +1271,7 @@ U 1 1 61E3FE9E
 P 8200 5250
 F 0 "D47" V 8154 5330 50  0000 L CNN
 F 1 "1N4148" V 8245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 8200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 5250 50  0001 C CNN
 	1    8200 5250
 	0    1    1    0   
@@ -1282,7 +1282,7 @@ U 1 1 61E3FEA4
 P 8200 4750
 F 0 "D37" V 8154 4830 50  0000 L CNN
 F 1 "1N4148" V 8245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 8200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 4750 50  0001 C CNN
 	1    8200 4750
 	0    1    1    0   
@@ -1293,7 +1293,7 @@ U 1 1 61E3FEAA
 P 8200 4250
 F 0 "D27" V 8154 4330 50  0000 L CNN
 F 1 "1N4148" V 8245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 8200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 4250 50  0001 C CNN
 	1    8200 4250
 	0    1    1    0   
@@ -1304,7 +1304,7 @@ U 1 1 61E3FEB0
 P 8200 3750
 F 0 "D17" V 8154 3830 50  0000 L CNN
 F 1 "1N4148" V 8245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 8200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 3750 50  0001 C CNN
 	1    8200 3750
 	0    1    1    0   
@@ -1315,7 +1315,7 @@ U 1 1 61E3FEB6
 P 8200 3250
 F 0 "D7" V 8154 3330 50  0000 L CNN
 F 1 "1N4148" V 8245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 8200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 3250 50  0001 C CNN
 	1    8200 3250
 	0    1    1    0   
@@ -1326,7 +1326,7 @@ U 1 1 61E45FF2
 P 9200 5750
 F 0 "D58" V 9154 5830 50  0000 L CNN
 F 1 "1N4148" V 9245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 9200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 5750 50  0001 C CNN
 	1    9200 5750
 	0    1    1    0   
@@ -1337,7 +1337,7 @@ U 1 1 61E45FF8
 P 9200 5250
 F 0 "D48" V 9154 5330 50  0000 L CNN
 F 1 "1N4148" V 9245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 9200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 5250 50  0001 C CNN
 	1    9200 5250
 	0    1    1    0   
@@ -1348,7 +1348,7 @@ U 1 1 61E45FFE
 P 9200 4750
 F 0 "D38" V 9154 4830 50  0000 L CNN
 F 1 "1N4148" V 9245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 9200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 4750 50  0001 C CNN
 	1    9200 4750
 	0    1    1    0   
@@ -1359,7 +1359,7 @@ U 1 1 61E46004
 P 9200 4250
 F 0 "D28" V 9154 4330 50  0000 L CNN
 F 1 "1N4148" V 9245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 9200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 4250 50  0001 C CNN
 	1    9200 4250
 	0    1    1    0   
@@ -1370,7 +1370,7 @@ U 1 1 61E4600A
 P 9200 3750
 F 0 "D18" V 9154 3830 50  0000 L CNN
 F 1 "1N4148" V 9245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 9200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 3750 50  0001 C CNN
 	1    9200 3750
 	0    1    1    0   
@@ -1381,7 +1381,7 @@ U 1 1 61E46010
 P 9200 3250
 F 0 "D8" V 9154 3330 50  0000 L CNN
 F 1 "1N4148" V 9245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 9200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9200 3250 50  0001 C CNN
 	1    9200 3250
 	0    1    1    0   
@@ -1392,7 +1392,7 @@ U 1 1 61E4B0EA
 P 10200 5750
 F 0 "D59" V 10154 5830 50  0000 L CNN
 F 1 "1N4148" V 10245 5830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 10200 5575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10200 5575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10200 5750 50  0001 C CNN
 	1    10200 5750
 	0    1    1    0   
@@ -1403,7 +1403,7 @@ U 1 1 61E4B0F0
 P 10200 5250
 F 0 "D49" V 10154 5330 50  0000 L CNN
 F 1 "1N4148" V 10245 5330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 10200 5075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10200 5075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10200 5250 50  0001 C CNN
 	1    10200 5250
 	0    1    1    0   
@@ -1414,7 +1414,7 @@ U 1 1 61E4B0F6
 P 10200 4750
 F 0 "D39" V 10154 4830 50  0000 L CNN
 F 1 "1N4148" V 10245 4830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 10200 4575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10200 4575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10200 4750 50  0001 C CNN
 	1    10200 4750
 	0    1    1    0   
@@ -1425,7 +1425,7 @@ U 1 1 61E4B0FC
 P 10200 4250
 F 0 "D29" V 10154 4330 50  0000 L CNN
 F 1 "1N4148" V 10245 4330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 10200 4075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10200 4250 50  0001 C CNN
 	1    10200 4250
 	0    1    1    0   
@@ -1436,7 +1436,7 @@ U 1 1 61E4B102
 P 10200 3750
 F 0 "D19" V 10154 3830 50  0000 L CNN
 F 1 "1N4148" V 10245 3830 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 10200 3575 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10200 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10200 3750 50  0001 C CNN
 	1    10200 3750
 	0    1    1    0   
@@ -1447,7 +1447,7 @@ U 1 1 61E4B108
 P 10200 3250
 F 0 "D9" V 10154 3330 50  0000 L CNN
 F 1 "1N4148" V 10245 3330 50  0000 L CNN
-F 2 "diode:Diotec_Semiconductor-1N4148-0" H 10200 3075 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10200 3075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10200 3250 50  0001 C CNN
 	1    10200 3250
 	0    1    1    0   
